@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hard Skills
 
-<!--
-**kelmity/kelmity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,postgresql,git,linux" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages
+- Python  
+- C++  
+- SQL  
+
+## Libraries
+- NumPy  
+- pandas  
+- scikit-learn  
+- TensorFlow  
+- PyTorch  
+
+## Tools and Technologies
+- PostgreSQL  
+- Git  
+- Linux  
+- Google Colab
